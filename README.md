@@ -312,7 +312,6 @@ Contributors:
 ## 📄 License
 
 A license has not yet been specified for this project.
-
 A suitable open-source license can be added if the project is intended to be distributed or reused publicly.
 
 ## ⭐ Acknowledgement
